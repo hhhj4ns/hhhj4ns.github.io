@@ -4,8 +4,11 @@ My first topic to review is Privilege Escalation in Linux, here I leave several 
 
 [1](https://github.com/TCM-Course-Resources/Linux-Privilege-Escalation-Resources)
 [2](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)
-
-
+[3](https://github.com/sagishahar/lpeworkshop)
+[4](https://mil0.io/linux-privesc/)
+[5](https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-linux)
+[6](https://github.com/m0nad/awesome-privilege-escalation#sudo-and-suid)
+[7](https://book.hacktricks.xyz/linux-unix/privilege-escalation)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

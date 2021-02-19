@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
+gem "github-pages", group: :jekyll_plugins
 title: Welcome to the my first blog.
 description: This blog will be about my preparation for the OSCP exam 

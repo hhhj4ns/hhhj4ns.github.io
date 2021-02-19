@@ -3,8 +3,6 @@
 My first topic to review is Privilege Escalation in Linux, here I leave several interesting links with a lot of content about it.
 
 [1](https://github.com/TCM-Course-Resources/Linux-Privilege-Escalation-Resources)
-
-
 [2](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)
 
 

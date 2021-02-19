@@ -10,7 +10,11 @@ My first topic to review is Privilege Escalation in Linux, here I leave several 
 [6](https://github.com/m0nad/awesome-privilege-escalation#sudo-and-suid)
 [7](https://book.hacktricks.xyz/linux-unix/privilege-escalation)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I don't speak or write in english but I will try.
+To improve that point I am taking English classes.
+I must confess that sometimes it exhausted :) it, since my English is not fluent at all. 
+
+My teacher is []()
 
 ### Markdown
 

@@ -12,7 +12,7 @@ My first topic to review is Privilege Escalation in Linux, here I leave several 
 
 I don't speak or write in english but I will try.
 To improve that point I am taking English classes.
-I must confess that sometimes it exhausted :) it, since my English is not fluent at all. 
+I must confess that sometimes it exhausted :) because of my level is not fluent at all. 
 
 My teacher is []()
 

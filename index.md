@@ -14,7 +14,7 @@ I don't speak or write in english but I will try.
 To improve that point I am taking English classes.
 I must confess that sometimes it exhausted :) because of my level is not fluent at all. 
 
-My teacher is []()
+My teacher is [Javiera_Montero](https://www.instagram.com/emi_jvmo/)
 
 ### Markdown
 

@@ -27,7 +27,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-Enumeration
+# Enumeration
 
 
 uname -a
@@ -39,7 +39,7 @@ ps aux
 ps aux | grep root
 
 
-User Enumeration
+## User Enumeration
  
 
 whoami
@@ -52,7 +52,7 @@ cat /etc/shadow
 
 ----------------------------
 
-search SUID 
+### search SUID 
 
 find / -perm -u=s -type f 2>/dev/null
 find /* -user root -perm -4000 -print 2>/dev/null

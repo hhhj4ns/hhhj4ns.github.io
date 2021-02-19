@@ -18,7 +18,7 @@ My teacher is [Javiera_Montero](https://www.instagram.com/emi_jvmo/)
 
 ### Notes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The following commands correspond to the enumeration process 
 
 ```markdown
 Syntax highlighted code block
@@ -27,8 +27,37 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+Enumeration
+
+
+uname -a
+hostname
+cat /proc/version
+cat /etc/issue
+lscpu
+ps aux  
+ps aux | grep root
+
+
+User Enumeration
+ 
+
+whoami
+id
+sudo -l
+
+cat /etc/passwd
+cat /etc/shadow
+
+
+----------------------------
+
+search SUID 
+
+find / -perm -u=s -type f 2>/dev/null
+find /* -user root -perm -4000 -print 2>/dev/null
+find / -perm -g=s -type f 2>/dev/null
+
 
 1. Numbered
 2. List

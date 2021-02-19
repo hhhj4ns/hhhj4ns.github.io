@@ -16,7 +16,7 @@ I must confess that sometimes it's exhausting :) because of my level is not flue
 
 My teacher is [Javiera_Montero](https://www.instagram.com/emi_jvmo/)
 
-### Markdown
+### Notes
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

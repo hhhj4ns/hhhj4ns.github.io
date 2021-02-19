@@ -39,7 +39,7 @@ ps aux
 ps aux | grep root
 
 
-## User Enumeration
+# User Enumeration
  
 
 whoami
@@ -50,13 +50,21 @@ cat /etc/passwd
 cat /etc/shadow
 
 
-----------------------------
+------------------------------------------
 
-### search SUID 
+# Search SUID 
 
 find / -perm -u=s -type f 2>/dev/null
 find /* -user root -perm -4000 -print 2>/dev/null
 find / -perm -g=s -type f 2>/dev/null
+
+# Search capabilities 
+
+getcap -r / 2>/dev/null
+
+# Search sudo
+
+sudo -l
 
 
 1. Numbered

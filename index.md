@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Lets' go
 
-You can use the [editor on GitHub](https://github.com/hhhj4ns/hhhj4ns.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My first topic to review is Privilege Escalation in Linux, here I leave several interesting links with a lot of content about it.
+[1](https://github.com/TCM-Course-Resources/Linux-Privilege-Escalation-Resources).
+[2](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
